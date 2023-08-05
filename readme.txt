@@ -1,1 +1,1 @@
-version: todo-app-1.0-snapshort
+version: todo-app-2.0-snapshort
